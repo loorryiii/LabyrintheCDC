@@ -4,6 +4,7 @@ Merci à Zerie pour son "Tiny RPG Character Pack" de itch.io
 Merci à Pixilart pour l'Energy Bow
 Merci à Scratch pour l'édition d'images
 Merci à DeepNight pour les maps
+Merci à Processing pour son logiciel de code !
 
 Liens : 
 https://github.com/R2mix
@@ -17,3 +18,5 @@ https://www.pixilart.com/
 https://scratch.mit.edu/
 
 https://deepnight.net/tools/rpg-map/
+
+https://processing.org/
