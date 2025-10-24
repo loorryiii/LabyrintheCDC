@@ -1,6 +1,6 @@
-## Bienvenue dans le projet labyrinthe de la Compagnie du Code
+# Bienvenue dans le projet labyrinthe de la Compagnie du Code
 
-# Spécial thanks and credits
+## Spécial thanks and credits
 Thanks to R2mix for their PScratch library that I used
 Thanks to Zerie for his "Tiny RPG Character Pack" from itch.io
 Thanks to Pixilart for the Energy Bow
@@ -23,7 +23,7 @@ https://deepnight.net/tools/rpg-map/
 
 https://processing.org/
 
-#Linux
+## Linux
 
 1. Unzip the tar.xz archive
 
