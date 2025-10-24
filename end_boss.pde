@@ -1,6 +1,6 @@
 class end_boss extends Sprite {
 
-  int vie = 15;
+  int vie = 50;
   end_boss() {
     super(stage);
     setSizeTo(250);
@@ -24,7 +24,7 @@ class end_boss extends Sprite {
       push(); //debut des fonctions graphiques
       noStroke(); //pas de contour
       fill(#FA3416); //barre rouge a devoiler
-      rect(x - 25, y - 40, 75, 20); //rectangle de la barre rouge
+      rect(x - 25, y - 40, 50, 20); //rectangle de la barre rouge
       fill(#15FA3C); //barre verte du debut
       rect(x - 25, y - 40, vie, 20); //rectangle de la barre verte
       pop(); //fin
