@@ -27,4 +27,6 @@ https://processing.org/
 
 1. Unzip the tar.xz archive
 
-2. ouvrez le dossier 
+2. ouvrez le dossier
+
+3. Faites un clic droit sur
